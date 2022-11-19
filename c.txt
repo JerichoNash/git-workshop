@@ -3,3 +3,11 @@
 132132132
 44444
 55555
+c.txt
+add
+commit
+
+add 11111
+diff
+add
+commit
