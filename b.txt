@@ -4,4 +4,5 @@ main
 83487852ae84a9efe710ca25af461707c60504a8
 login
 
+logout
 
